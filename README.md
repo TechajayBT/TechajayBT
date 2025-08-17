@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Ajay Singh Bartwal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=435&lines=Software+Developer;Always+learning+new+things;Java+%7C+Web+%7C+MERN+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=435&lines=Software+Developer;Always+learning+new+things;Java+%7C+Web+%7C+MERN+Stack+Learner" alt="Typing SVG"/>
 </p>
 
 ---
@@ -45,21 +45,56 @@
 
 ## 📂 Featured Projects
 
-- [RailwayManagementSystem](https://github.com/TechajayBT/RailwayManagementSystem)  
-  A comprehensive Railway Management System for efficient train, ticket, and user operations.  
-  <sub><sup>Language: Java</sup></sub>
-
-- [VisualizerApplication](https://github.com/TechajayBT/VisualizerApplication)  
-  Visualizer app through which you can visualize all the DSA concepts.  
-  <sub><sup>Language: Java</sup></sub>
-
-- [NewsAggregator](https://github.com/TechajayBT/NewsAggregator)  
-  Inshorts upgraded version – a modern news aggregator application.  
-  <sub><sup>Language: JavaScript</sup></sub>
-
-- [Ajay-Vehicle-Rental-Management-System](https://github.com/TechajayBT/Ajay-Vehicle-Rental-Management-System)  
-  Vehicle Rental Management System for managing rentals and related operations.  
-  <sub><sup>Language: Java</sup></sub>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/TechajayBT/RailwayManagementSystem" target="_blank">🚂 Railway Management System</a></h3>
+      <p>
+        A comprehensive Railway Management System for efficient train, ticket, and user operations.<br>
+        <b>Language:</b> Java
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,sqlite,git" height="22"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/TechajayBT/VisualizerApplication" target="_blank">📊 Visualizer Application</a></h3>
+      <p>
+        Visualizer app through which you can visualize all the DSA concepts.<br>
+        <b>Language:</b> Java
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/TechajayBT/NewsAggregator" target="_blank">📰 News Aggregator</a></h3>
+      <p>
+        Inshorts upgraded version – a modern news aggregator application.<br>
+        <b>Language:</b> JavaScript
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=js,react,html,css" height="22"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/TechajayBT/Ajay-Vehicle-Rental-Management-System" target="_blank">🚗 Vehicle Rental Management System</a></h3>
+      <p>
+        Vehicle Rental Management System for managing rentals and related operations.<br>
+        <b>Language:</b> Java
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
