@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Ajay Singh Bartwal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=435&lines=Software+Developer;Always+learning+new+things;Java+%7C+Web+%7C+MERN+Stack+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=435&lines=Software+Developer;Always+learning+new+things;Java+%7C+Web+%7C+MERN+Stack+Learner" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 🛠️ Skills & Technologies
 
-<p>
+<div align="center" style="overflow-x:auto; max-width:100%">
   <img src="https://img.shields.io/badge/DSA-%23007ACC?style=for-the-badge&logo=databricks&logoColor=white" alt="DSA"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/OOPS-%23007ACC?style=for-the-badge&logo=abstract&logoColor=white" alt="OOPS"/>
@@ -39,71 +39,55 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-<table>
+<div align="center">
+
+<table align="center" style="width:100%; max-width:900px;">
   <tr>
-    <td>
-      <h3><a href="https://github.com/TechajayBT/RailwayManagementSystem" target="_blank">🚂 Railway Management System</a></h3>
-      <p>
-        A comprehensive Railway Management System for efficient train, ticket, and user operations.<br>
-        <b>Language:</b> Java
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,sqlite,git" height="22"/>
-      </p>
+    <td align="center" width="50%" style="min-width:220px;">
+      <a href="https://github.com/TechajayBT/RailwayManagementSystem" target="_blank"><b>🚂 Railway Management System</b></a>
+      <br>
+      <sub>Java | Efficient train, ticket, and user operations.</sub><br>
+      <img src="https://skillicons.dev/icons?i=java,sqlite,git" height="22"/>
+    </td>
+    <td align="center" width="50%" style="min-width:220px;">
+      <a href="https://github.com/TechajayBT/VisualizerApplication" target="_blank"><b>📊 Visualizer Application</b></a>
+      <br>
+      <sub>Java | Visualize all the DSA concepts.</sub><br>
+      <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <h3><a href="https://github.com/TechajayBT/VisualizerApplication" target="_blank">📊 Visualizer Application</a></h3>
-      <p>
-        Visualizer app through which you can visualize all the DSA concepts.<br>
-        <b>Language:</b> Java
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
-      </p>
+    <td align="center" width="50%" style="min-width:220px;">
+      <a href="https://github.com/TechajayBT/NewsAggregator" target="_blank"><b>📰 News Aggregator</b></a>
+      <br>
+      <sub>JavaScript | Inshorts-style modern news aggregator.</sub><br>
+      <img src="https://skillicons.dev/icons?i=js,react,html,css" height="22"/>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/TechajayBT/NewsAggregator" target="_blank">📰 News Aggregator</a></h3>
-      <p>
-        Inshorts upgraded version – a modern news aggregator application.<br>
-        <b>Language:</b> JavaScript
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=js,react,html,css" height="22"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/TechajayBT/Ajay-Vehicle-Rental-Management-System" target="_blank">🚗 Vehicle Rental Management System</a></h3>
-      <p>
-        Vehicle Rental Management System for managing rentals and related operations.<br>
-        <b>Language:</b> Java
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
-      </p>
+    <td align="center" width="50%" style="min-width:220px;">
+      <a href="https://github.com/TechajayBT/Ajay-Vehicle-Rental-Management-System" target="_blank"><b>🚗 Vehicle Rental Management System</b></a>
+      <br>
+      <sub>Java | Manage rentals and operations.</sub><br>
+      <img src="https://skillicons.dev/icons?i=java,git" height="22"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechajayBT&show_icons=true&theme=radical" alt="Ajay's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechajayBT&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+<div align="center" style="width:100%; overflow-x:auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechajayBT&show_icons=true&theme=radical" alt="Ajay's GitHub stats" height="150" style="max-width:100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechajayBT&layout=compact&theme=radical" alt="Top Languages" height="150" style="max-width:100%;"/>
+</div>
 
 ---
 
