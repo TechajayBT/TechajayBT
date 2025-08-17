@@ -45,6 +45,10 @@
 
 ## 📂 Featured Projects
 
+- [RailwayManagementSystem](https://github.com/TechajayBT/RailwayManagementSystem)  
+  A comprehensive Railway Management System for efficient train, ticket, and user operations.  
+  <sub><sup>Language: Java</sup></sub>
+
 - [VisualizerApplication](https://github.com/TechajayBT/VisualizerApplication)  
   Visualizer app through which you can visualize all the DSA concepts.  
   <sub><sup>Language: Java</sup></sub>
