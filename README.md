@@ -39,9 +39,17 @@
 
 ## 📂 Featured Projects
 
-<!-- Replace these with your best/favorite projects -->
-- [Project Name](https://github.com/TechajayBT/ProjectName) — Short project description goes here.
-- [Another Project](https://github.com/TechajayBT/AnotherProject) — What this project does.
+- [VisualizerApplication](https://github.com/TechajayBT/VisualizerApplication)  
+  Visualizer app through which you can visualize all the DSA concepts.  
+  <sub><sup>Language: Java</sup></sub>
+
+- [NewsAggregator](https://github.com/TechajayBT/NewsAggregator)  
+  Inshorts upgraded version – a modern news aggregator application.  
+  <sub><sup>Language: JavaScript</sup></sub>
+
+- [Ajay-Vehicle-Rental-Management-System](https://github.com/TechajayBT/Ajay-Vehicle-Rental-Management-System)  
+  Vehicle Rental Management System for managing rentals and related operations.  
+  <sub><sup>Language: Java</sup></sub>
 
 ---
 
@@ -61,8 +69,3 @@
 - 📚 Never done learning.
 
 ---
-
-<!--
-**TechajayBT/TechajayBT** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
